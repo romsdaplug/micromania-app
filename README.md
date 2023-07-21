@@ -5,4 +5,6 @@
 - We encrypt params to make the requests using AES/Cipher.
 
 - It is deprecated as of now because they changed their whole app but still good to understand how it worked !
+
+(Thanks to this method, I've been able to monitor PS5 stock changes and autocheckout them).
  
