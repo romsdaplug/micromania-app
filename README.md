@@ -1,4 +1,4 @@
-# Micromania App Requests Decode/Encode
+# Micromania App Requests Encode
 
 - This an open source of the method I've used to make requests through the Micromania App while they were using Gameup.com to host their app.
 
